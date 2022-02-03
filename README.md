@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My self Kiran, completed my undergradutaed in year 2018 and started working as **Assistant Systems Engineer** in *Tata Consultancy Services*.
+My self Kiran, completed my undergraduation from Guru Nanak Institute, Hyderabad and started working as **Assistant Systems Engineer** in *Tata Consultancy Services*.
 In my Line of Work, I worked as Java Developer building API's with Spring Framework using Spring Security and Spring JPA.
 I also came across using Sql and CSS, Java Script for Front End and Database.
 
